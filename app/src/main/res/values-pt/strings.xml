@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercício Prático 008 - Layout e Idiomas</string>
+
+    <string name="hello_world">Hello World</string>
+    <string name="actions_settings">Settings</string>
+
+    <string name="name">Nome: </string>
+    <string name="surname">Apelido: </string>
+    <string name="address">Morada: </string>
+    <string name="city">Concelho: </string>
+    <string name="state">Distrito: </string>
+    <string name="country">País: </string>
+
+</resources>

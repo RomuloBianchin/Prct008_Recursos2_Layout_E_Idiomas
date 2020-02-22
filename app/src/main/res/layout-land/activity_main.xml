@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableRow>
+
+        <TextView
+            android:text="@string/name">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+        <TextView
+            android:text="@string/surname">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="@string/address">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+        <TextView
+            android:text="@string/city">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="@string/state">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+        <TextView
+            android:text="@string/country">
+        </TextView>
+
+        <EditText
+            android:layout_weight="1">
+        </EditText>
+
+    </TableRow>
+
+</TableLayout>

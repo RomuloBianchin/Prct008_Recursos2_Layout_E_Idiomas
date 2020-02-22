@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice 008 - Layout and Languages</string>
+
+    <string name="hello_world">Hello World</string>
+    <string name="actions_settings">Settings</string>
+
+    <string name="name">Name: </string>
+    <string name="surname">Surname: </string>
+    <string name="address">Address: </string>
+    <string name="city">City: </string>
+    <string name="state">State: </string>
+    <string name="country">Country: </string>
+
+
+</resources>
